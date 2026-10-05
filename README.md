@@ -54,3 +54,7 @@ Arduino valdomo seifo prototipas, sukurtas Tinkercad aplinkoje robotikos namų d
 Arduino kodas saugomas faile `seifas/seifas.ino`. Naudojamos bibliotekos: `Keypad`, `Servo` ir `Adafruit_LiquidCrystal`. Teisingas PIN nustatomas kintamajame `correctPin`.
 
 Tinkercad aplinkoje surinkti schemą pagal nurodytus kontaktus, į teksto režimo kodo redaktorių įkelti programą ir paleisti simuliaciją. Paspausti fizinį mygtuką, įvesti PIN ir patvirtinti su `#`.
+
+## Tinkercad projektas
+
+[Atidaryti seifo schemą ir simuliaciją](https://www.tinkercad.com/things/jDgoKpx50Ld-seifas-su-pin?sharecode=TrWLIOZpWyLIQXljQvFcashs8LzL3j4ZOFsL0Q3JN5o)
