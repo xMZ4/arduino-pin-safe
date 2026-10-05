@@ -1,6 +1,6 @@
 # Seifas su PIN kodu
 
-Arduino valdomo seifo prototipas, sukurtas „Tinkercad Circuits“ aplinkoje robotikos namų darbui. PIN įvedamas klaviatūra, o servovariklis imituoja užrakto mechanizmą.
+Arduino valdomo seifo prototipas, sukurtas Tinkercad aplinkoje robotikos namų darbui. PIN įvedamas klaviatūra, o servovariklis imituoja užrakto mechanizmą.
 
 ## Veikimas
 
@@ -53,4 +53,4 @@ Arduino valdomo seifo prototipas, sukurtas „Tinkercad Circuits“ aplinkoje ro
 
 Arduino kodas saugomas faile `seifas/seifas.ino`. Naudojamos bibliotekos: `Keypad`, `Servo` ir `Adafruit_LiquidCrystal`. Teisingas PIN nustatomas kintamajame `correctPin`.
 
-„Tinkercad Circuits“ aplinkoje surinkti schemą pagal nurodytus kontaktus, į teksto režimo kodo redaktorių įkelti programą ir paleisti simuliaciją. Paspausti fizinį mygtuką, įvesti PIN ir patvirtinti su `#`.
+Tinkercad aplinkoje surinkti schemą pagal nurodytus kontaktus, į teksto režimo kodo redaktorių įkelti programą ir paleisti simuliaciją. Paspausti fizinį mygtuką, įvesti PIN ir patvirtinti su `#`.
