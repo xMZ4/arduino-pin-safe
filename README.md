@@ -18,7 +18,7 @@ Arduino valdomo seifo prototipas, sukurtas Tinkercad aplinkoje robotikos namų d
 - Arduino Uno R3
 - 4 × 4 matricinė klaviatūra
 - Micro Servo
-- LCD 16 × 2 su I2C sąsaja (MCP23008, adresas 0x20)
+- LCD 16 × 2
 - Raudonas ir žalias LED
 - Du 220 Ω rezistoriai LED srovei riboti
 - Pjezo garsinis elementas
